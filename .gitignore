@@ -10,3 +10,7 @@ venv/
 # OS files
 .DS_Store
 Thumbs.db
+
+# App-specific sensitive files
+salt.salt
+passwords.txt
